@@ -1,0 +1,12 @@
+<h1 class="text-center">Products</h1>
+<div class="customCardContainer">
+  <section *ngFor="let element of myData" class="card">
+    <div class="card-body customCardBody">
+      <img [src]="element?.imgSrc" alt="No Image Found" width="200">
+      <div>
+        <p style="font-weight: 900;">Name: {{element?.name}}</p>
+        <p style="font-weight: 900;">Price: {{element?.price | currency:"INR"}}</p>
+      </div>
+    </div>
+  </section>
+</div>

@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imgSrc": "https://b2c-contenthub.com/wp-content/uploads/2024/09/Xiaomi-Redmi-Note-14-series-9.jpg?quality=50&strip=all",
+      "name": "Redmi 14 Pro",
+      "price": "22000"
+    },
+    {
+      "id": "9acc",
+      "imgSrc": "https://i5.walmartimages.com/asr/cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg",
+      "name": "iphone",
+      "price": "90000"
+    },
+    {
+      "id": "a3b1",
+      "imgSrc": "https://static.digit.in/product/29f79e7eeacbb8e1ba68d3532fea60a387104965.jpeg?tr=w-1200",
+      "name": "Oppo 5G",
+      "price": "20000"
+    },
+    {
+      "id": "bd93",
+      "imgSrc": "https://i5.walmartimages.com/asr/cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg",
+      "name": "Oppo 5G",
+      "price": "20000"
+    },
+    {
+      "id": "9678",
+      "imgSrc": "https://i5.walmartimages.com/asr/cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg",
+      "name": "Oppo 5G",
+      "price": "20000"
+    },
+    {
+      "id": "aa0f",
+      "imgSrc": "https://i5.walmartimages.com/asr/cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg",
+      "name": "Oppo 5G",
+      "price": "20000"
+    },
+    {
+      "id": "665f",
+      "imgSrc": "https://i5.walmartimages.com/asr/cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg",
+      "name": "Oppo 5G",
+      "price": "20000"
+    }
+  ]
+}

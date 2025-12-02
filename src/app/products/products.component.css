@@ -1,0 +1,18 @@
+.customCardBody {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.customCardContainer .card {
+  box-shadow: 0px 0px 0.85rem black;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all linear 500ms;
+}
+.customCardContainer .card:hover {
+  scale: 0.9;
+  box-shadow: inset 0px 0px 0.85rem black;
+}
+
